@@ -45,7 +45,7 @@ int main()
 
 	//вставляем по итератору значение в список
 	mylist.insert(it, 111);
-	//testgit
+	
 	cout << endl;
 	PrintList(mylist);
 }
